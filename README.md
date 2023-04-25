@@ -8,7 +8,7 @@ The user interface is built using the tkinter library, which provides a set of w
 
 ## Installation
 
-Install different modules using the following commands:-
+Install different modules in the command terminal using the following commands:-
 
 ```bash
   pip install Pillow
